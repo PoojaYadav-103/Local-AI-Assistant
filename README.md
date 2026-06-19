@@ -30,12 +30,12 @@ A simple AI chatbot built using **Streamlit**, **LangChain**, and **Ollama (Llam
 ## 📂 Project Structure
 
 ```
-CHATBOT/
+Local-AI-Assistant/
 │── app.py
 │── requirements.txt
 │── README.md
-│── .env.example
 │── .gitignore
+│── screenshots/
 ```
 
 ---
@@ -145,3 +145,9 @@ The application is integrated with LangSmith to visualize:
 **Pooja Yadav**
 
 Learning and building projects in AI, Machine Learning and LangChain.
+
+## 🤝 Connect with Me
+
+GitHub: https://github.com/PoojaYadav-103
+
+If you found this project helpful, feel free to ⭐ the repository.
