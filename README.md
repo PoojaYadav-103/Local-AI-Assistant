@@ -45,7 +45,7 @@ CHATBOT/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Local-AI-Assistant.git
+git clone https://github.com/PoojaYadav-103/Local-AI-Assistant.git
 cd Local-AI-Assistant
 ```
 
